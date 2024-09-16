@@ -11,4 +11,4 @@ COPY target/*.jar /app/app.jar
 CMD ["java", "-jar", "/app/app.jar"]
 
 # Expose the port your app runs on (optional)
-EXPOSE 8080
+EXPOSE 8081
