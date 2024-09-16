@@ -1,0 +1,17 @@
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\BackendApplication.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\controller\ArchiveController.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\controller\Notescontroller.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\controller\RecycleController.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\controller\UserController.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\entity\Archive.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\entity\notes.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\entity\Recycle.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\entity\User.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\repository\ArchiveRepository.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\repository\NotesRepository.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\repository\RecycleRepository.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\repository\USerrepository.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\service\archiveservice.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\service\notesservice.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\service\recycleservice.java
+C:\Users\hp\Downloads\Backend (1)\Backend\src\main\java\com\example\Backend\service\userservice.java

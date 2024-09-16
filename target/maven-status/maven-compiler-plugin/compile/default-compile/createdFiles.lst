@@ -1,0 +1,17 @@
+com\example\Backend\repository\NotesRepository.class
+com\example\Backend\controller\UserController.class
+com\example\Backend\service\notesservice.class
+com\example\Backend\entity\Archive.class
+com\example\Backend\repository\USerrepository.class
+com\example\Backend\service\archiveservice.class
+com\example\Backend\BackendApplication.class
+com\example\Backend\entity\notes.class
+com\example\Backend\entity\Recycle.class
+com\example\Backend\service\userservice.class
+com\example\Backend\entity\User.class
+com\example\Backend\controller\ArchiveController.class
+com\example\Backend\controller\RecycleController.class
+com\example\Backend\controller\Notescontroller.class
+com\example\Backend\repository\RecycleRepository.class
+com\example\Backend\service\recycleservice.class
+com\example\Backend\repository\ArchiveRepository.class
