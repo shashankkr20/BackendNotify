@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class userservice {
@@ -17,7 +18,7 @@ public class userservice {
     public void add(User u){
         userrep.save(u);
     }
-    public User validate(String uname,String password){
+    public Optional<User> validate(String uname, String password){
         return userrep.findone(uname,password);
     }
     public User getone(int id){
