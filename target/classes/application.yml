@@ -11,6 +11,7 @@ spring:
     password: AVNS_brUoxymx0puQfVUsb-e
   jpa:
     hibernate:
+      dialect: org.hibernate.dialect.MySQLDialect
       ddl-auto: update
     show-sql: true
     open-in-view: true
