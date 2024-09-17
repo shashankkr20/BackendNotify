@@ -6,9 +6,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    username: root
-    url: jdbc:mysql://localhost:3306/notesmaking
-    password: shashank12345
+    username: avnadmin
+    url: jdbc:mysql://mysql-1d801f87-skm808478-9153.c.aivencloud.com:21607/defaultdb
+    password: AVNS_brUoxymx0puQfVUsb-e
   jpa:
     hibernate:
       ddl-auto: update
